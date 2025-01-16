@@ -1,0 +1,10 @@
+
+p {
+    font-size: 24px; /* Adjust the size as needed */
+    font-weight: bold; /* Optional: Make it bold */
+}
+#result {
+    margin-top: 20px;
+    font-size: 24px;
+    font-weight: bold;
+}
